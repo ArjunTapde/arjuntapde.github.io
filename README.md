@@ -1,9 +1,9 @@
 # Arjun's User Page
-## Table of Contents
+## Table of Contents (List)
 - [Picture of Me](#Here-is-a-picture-of-me!)
 - [My Favorite Programming Language](#Favorite-Programming-Language)
 - [My Favorite Quote](#My-favorite-quote)
-- [My Favorite Line of Code](#My-favorite-line-of-code!)
+- [My Favorite Line of Code](#My-favorite-line-of-code)
 
 ### Here is a picture of me!
 ![](./images/GitHubProfilePicture.jpeg)
@@ -20,7 +20,17 @@ My favorite programming language is ~~Assembly~~ C++. **Shocking.** *I know righ
 ```
 print('Hello World!')
 ```
+###### Link
+[Link to UC San Diego's homepage](https://www.ucsd.edu)  
 
-[Link to UC San Diego's homepage](https://www.ucsd.edu)
+###### Relative Link
+[Click to see picture of me in original size](./images/GitHubProfilePicture.jpeg)  
 
+###### To-Do List
+- [x] Finish High School
+- [ ] Graduate UCSD
+- [ ] Get a Job
+
+###### Section Link
 [Back to Top](#Arjun's User Page)
+
