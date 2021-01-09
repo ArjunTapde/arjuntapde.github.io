@@ -1,9 +1,9 @@
 # Arjun's User Page
 ## Table of Contents (List)
 - [Picture of Me](#here-is-a-picture-of-me)
-- [My Favorite Programming Language](#Favorite-Programming-Language)
-- [My Favorite Quote](#My-favorite-quote)
-- [My Favorite Line of Code](#My-favorite-line-of-code)
+- [My Favorite Programming Language](#favorite-programming-language)
+- [My Favorite Quote](#my-favorite-quote)
+- [My Favorite Line of Code](#my-favorite-line-of-code)
 
 ### Here is a picture of me!
 ![](./images/GitHubProfilePicture.jpeg)
