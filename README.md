@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Picture of Me](#Here-is-a-picture-of-me!)
 - [My Favorite Programming Language](#Favorite-Programming-Language)
-- [My Favorite Quote](#My-favorite-quote!)
+- [My Favorite Quote](#My-favorite-quote)
 - [My Favorite Line of Code](#My-favorite-line-of-code!)
 
 ### Here is a picture of me!
@@ -23,3 +23,4 @@ print('Hello World!')
 
 [Link to UC San Diego's homepage](https://www.ucsd.edu)
 
+[Back to Top](#Arjun's User Page)
