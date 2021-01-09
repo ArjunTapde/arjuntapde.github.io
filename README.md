@@ -1,5 +1,5 @@
 # Arjun's User Page
-## Table of Contents (List)
+## Table of Contents (List w/ Section Links)
 - [Picture of Me](#here-is-a-picture-of-me)
 - [My Favorite Programming Language](#favorite-programming-language)
 - [My Favorite Quote](#my-favorite-quote)
@@ -30,7 +30,3 @@ print('Hello World!')
 - [x] Finish High School
 - [ ] Graduate UCSD
 - [ ] Get a Job
-
-###### Section Link
-[Back to Top](#arjuns-User-Page)
-
