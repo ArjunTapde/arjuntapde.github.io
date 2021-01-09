@@ -1,6 +1,6 @@
 # Arjun's User Page
 ## Table of Contents (List)
-- [Picture of Me](#Here-is-a-picture-of-me)
+- [Picture of Me](#here-is-a-picture-of-me)
 - [My Favorite Programming Language](#Favorite-Programming-Language)
 - [My Favorite Quote](#My-favorite-quote)
 - [My Favorite Line of Code](#My-favorite-line-of-code)
